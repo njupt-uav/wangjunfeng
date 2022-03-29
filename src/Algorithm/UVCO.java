@@ -31,7 +31,7 @@ public class UVCO {
 		/*Vehicle[] vehicles = vehicleSetGenerate.oneRoadVehicleSet(areaGenerate.getArea(2));  //一条道路   kkk
 		HashMap<Integer,Map> allTaskMap = allVehicleTaskGenerate.oneRoadAllVehicleTask(areaGenerate.getArea(2), vehicles);   //一条道路
 */		
-		/*Vehicle[] vehicles = vehicleSetGenerate.twoRoadVehicleSet(areaGenerate.getArea(2));   //两条道路
+		/*Vehicle[] vehicles = vehicleSetGenerate.twoRoadVehicleSet(areaGenerate.getArea(2));   //两条道路mm
 		HashMap<Integer,Map> allTaskMap = allVehicleTaskGenerate.twoRoadAllVehicleTask(areaGenerate.getArea(2), vehicles);    //两条道路
 */		
 		Vehicle[] vehicles = vehicleSetGenerate.threeRoadVehicleSet(areaGenerate.getArea(2),2);   //三条道路
